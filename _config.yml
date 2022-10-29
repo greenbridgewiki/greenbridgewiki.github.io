@@ -1,4 +1,4 @@
-remote_theme: Drassil/git-wiki-theme@master
+remote_theme:  jgfam69qy2/git-wiki-theme@master
 # (string) Title of your wiki
 title: "Green Bridge Wiki"
 # (string) if you've installed your wiki in subfolder, you must change this configuration
