@@ -15,7 +15,7 @@ published: true
 - 1 tsp. cinnamon
 - 4 small or 3 large overripe bananas
 
-## Instrucciones
+## Instructions
 
 1. In a bowl add to the mashed bananas the oil, vanilla extract, cinnamon, "Lebkuchengewürz", flour, baking powder and chopped nuts and dates. Mix well, but don't overmix. 
 
@@ -23,7 +23,7 @@ published: true
 
 ## Variations
 
-1. Replace oil with 1 cup of apple puree or a homemade marmalade (not too sweet).  
+a) Replace oil with 1 cup of apple puree or a homemade marmalade (not too sweet).  
 
 ## Video
 
