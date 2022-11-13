@@ -2,3 +2,4 @@
 type: page
 ---
 
+# Cosmetics formulas
