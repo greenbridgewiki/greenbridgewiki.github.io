@@ -1,0 +1,18 @@
+Recipe for Pancakes
+========================
+
+
+# Ingredients
+
+ - Flour
+ - Milk
+ - Eggs
+ - Baking Powder
+
+# Steps
+
+ 1. Shred
+ 2. Fry
+ 3. Boil
+ 4. Serve
+
