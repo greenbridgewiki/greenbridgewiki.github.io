@@ -1,5 +1,7 @@
-No-knead basic bread
-========================
+---
+published: true
+title: No-knead basic bread
+---
 Simple no-knead recipe for two loafs of bread.
 
 Keeps fresh for about a week. Also easy to freeze if sliced and bagged with leafs of baking paper between slices.
