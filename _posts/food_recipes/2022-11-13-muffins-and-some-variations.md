@@ -1,5 +1,7 @@
-# Basic muffins & some variations
-
+---
+published: true
+title: Basic muffins & some variations
+---
 Simple recipe for 12 muffins
 
 # Ingredients
