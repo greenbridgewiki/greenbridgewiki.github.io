@@ -1,10 +1,7 @@
 ---
 published: true
-title: Porridge & all its variations
+title: Simple porridge & some variations
 ---
 
 
-# Porridge & all its variations
-
-
-
+# Simple porridge & some variations
