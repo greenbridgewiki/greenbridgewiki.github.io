@@ -1,4 +1,4 @@
-Recipe for Borscht
+Borscht soup
 ========================
 
 # Ingredients
