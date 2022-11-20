@@ -1,4 +1,4 @@
-Recipe for Bread
+No-knead basic bread
 ========================
 Simple no-knead recipe for two loafs of bread.
 
