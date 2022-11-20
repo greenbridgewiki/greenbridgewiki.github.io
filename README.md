@@ -6,6 +6,13 @@ This project is driven by the idea that overcoming the environmental challenges 
 
 # About the content
 
-For us, learning to live more sustainably in a world dominated by unsustainable systems, is hardly done overnight and is an open-end process. To avoid feeling overwhelmed and/or fall into the consumption trap of buying our way to a more environmentaly-friedly lifestyle without questioning underlying values, adopting more sustainable practices is best done, at least in the begining: slowly — one step at a time. 
+For us, learning to live more sustainably in a world dominated by unsustainable systems, is hardly done overnight and is an open-end process. To avoid feeling overwhelmed and/or falling into the consumption trap of buying our way to a more environmentally-friendly lifestyle without questioning underlying values, adopting more sustainable practices is best done, at least in the beginning: slowly — one step at a time. 
 
-Eventhough we dream of a radically changing the systems which we use and that serve us daily, so far our circumstances have permitted us to change some practices within some areas of our lives. The content of this website, revolves around the most important areas in which we've managed to stick to those changes, which generally involve rethinking what we consume, how we consume, what we dispose off and how.
+Even though we dream of radically changing the systems, that we use and that serve us daily, so far our circumstances have permitted us to change some practices within some areas of our lives. The content of this website revolves around the most important changes we've managed to stick to and of which we need to keep a record for future use. In general, these changes involve rethinking what we consume, how we consume, what we dispose of and how.
+
+So to cut straight to the point, in Green Bridge Wiki we post:	
+
+- Hearty, mostly from scratch, simple food recipes, most of which are also friendly for people lacking on cooking skills. 
+
+
+-
