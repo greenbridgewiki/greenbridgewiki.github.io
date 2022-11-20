@@ -1,4 +1,4 @@
-Recipe for Gyoza [UNTESTED]
+Gyoza - Japanese fried dumplings [UNTESTED]
 ========================
 
 # Ingredients
