@@ -1,8 +1,7 @@
 ---
 published: true
+title: Simple porridge & some variations
 ---
-# Nutty banana cake with no added sugar
-
 ## Ingredients
 
 - 1 cup or more of chopped walnuts, hazelnuts and Brazil nuts
