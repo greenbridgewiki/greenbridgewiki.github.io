@@ -13,6 +13,3 @@ Even though we dream of radically changing the systems, that we use and that ser
 So to cut straight to the point, in Green Bridge Wiki we post:	
 
 - Hearty, mostly from scratch, simple food recipes, most of which are also friendly for people lacking on cooking skills. 
-
-
--
