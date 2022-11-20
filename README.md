@@ -6,6 +6,6 @@ This project is driven by the idea that overcoming the environmental challenges 
 
 # About the content
 
-For us, learning to live more sustainably in a world dominated by unsustainable systems, is hardly done overnight and is an open-end process. To avoid feeling overwhelmed and/or fall into the consumption trap of buying your way to a more environmentaly-friedly lifestyle without questioning underlying values, adopting more sustainable practices is best done, at least at the begining: slowly — one step at a time. 
+For us, learning to live more sustainably in a world dominated by unsustainable systems, is hardly done overnight and is an open-end process. To avoid feeling overwhelmed and/or fall into the consumption trap of buying our way to a more environmentaly-friedly lifestyle without questioning underlying values, adopting more sustainable practices is best done, at least in the begining: slowly — one step at a time. 
 
-Eventhough we dream of a radically changing the systems which we use and that serve us daily, so far our circumstances have permitted us to change some practices within some areas of our lives. The content of this website, revolves around the most important areas in which we've managed to stick to those changes, which generally involve rethinking what we consume, how we consume, what we dispose off and how.  
+Eventhough we dream of a radically changing the systems which we use and that serve us daily, so far our circumstances have permitted us to change some practices within some areas of our lives. The content of this website, revolves around the most important areas in which we've managed to stick to those changes, which generally involve rethinking what we consume, how we consume, what we dispose off and how.
