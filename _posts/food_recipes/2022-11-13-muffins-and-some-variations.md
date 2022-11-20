@@ -1,4 +1,4 @@
-# Recipe for Muffins
+# Basic muffins & some variations
 
 Simple recipe for 12 muffins
 
