@@ -1,6 +1,6 @@
 ---
 published: true
-title: Simple porridge & some variations
+title: Nutty banana cake with no added sugar
 ---
 ## Ingredients
 
