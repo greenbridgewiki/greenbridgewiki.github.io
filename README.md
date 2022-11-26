@@ -1,6 +1,5 @@
---------
 Welcome to Green Bridge Wiki
---------
+============================
 
 # Main incentive
 
