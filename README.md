@@ -1,5 +1,4 @@
-Welcome to Green Bridge Wiki
-============================
+**Welcome to Green Bridge Wiki**
 
 # Main incentive
 
