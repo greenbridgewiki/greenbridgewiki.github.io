@@ -1,5 +1,0 @@
----
-type: page
----
-
-# Cosmetics formulas
