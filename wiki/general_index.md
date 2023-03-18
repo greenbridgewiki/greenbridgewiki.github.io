@@ -1,8 +1,9 @@
 ---
 type: page
+title: general index
 ---
 
-# Index
+# General Index
 
 ## Food
 
